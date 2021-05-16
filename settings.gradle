@@ -1,0 +1,2 @@
+rootProject.name = "Chapters For UPSC Wale"
+include ':app'

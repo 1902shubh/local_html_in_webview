@@ -1,0 +1,158 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chapters For UPSC Wale</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/cabinbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/cabinregular</string>
+    <string name="medium" tools:ignore="ReferenceType">@font/cabinmedium</string>
+
+
+    <string name="txt">
+        <h2>ATOMIC PHYSICS</h2><br/>
+        <p style="color:blue;"> • An atom is the smallest particle of the  element that can exist independently\n" +
+                            "and retain all its chemical properties. <br/><br/>" +
+                            "• Dalton’s atomic theory, which" +
+                            "suggested that the atom was indivisible" +
+                            "and indestructible. But the discovery" +
+                            "of two fundamental particles (electrons" +
+                            "and protons) inside the atom, led to" +
+                            "the failure of this aspect of Dalton’s \n" +
+                            "atomic theory. \n \n </p>
+    </string>
+
+    <string name="chap_atomic_phy">
+     • An atom is the smallest particle of the  element that can exist independently
+and retain all its chemical properties. \n\n
+• Dalton’s atomic theory, which
+suggested that the atom was indivisible
+and indestructible. But the discovery
+of two fundamental particles (electrons
+and protons) inside the atom, led to
+the failure of this aspect of Dalton’s
+atomic theory.\n\n
+• Thomson proposed that:
+i. An atom consists of a positively
+charged sphere and the electrons
+are embedded in it.
+ii. The negative and positive charges
+are equal in magnitude. So, the atom
+as a whole is electrically neutral.\n\n
+• Rutherford’s alpha-particle scattering
+experiment led to the discovery of the
+atomic nucleus. Rutherford’s model of
+the atom proposed that a very tiny
+nucleus is present inside the atom and
+electrons revolve around this nucleus.
+The stability of the atom could not be
+explained by this model.\n\n
+• Neils Bohr’s model of the atom was
+more successful. He proposed that
+electrons are distributed in different
+shells with discrete energy around the
+nucleus. If the atomic shells are
+complete, then the atom will be stable
+and less reactive.\n\n
+• J. Chadwick discovered presence of
+neutrons in the nucleus of an atom. So,
+the three sub-atomic particles of an
+atom are: (i) electrons, (ii) protons and
+(iii) neutrons. Electrons are negatively
+charged, protons are positively charged
+and neutrons have no charges. The
+mass of an electron is about 1/2000
+times the mass of an hydrogen atom.
+The mass of a proton and a neutron is
+taken as one unit each.\n\n
+• We know that protons are present in
+the nucleus of an atom. It is the number
+of protons of an atom, which
+determines its atomic number. It is
+denoted by ‘Z’. All atoms of an element
+have the same atomic number,Z. In fact,
+elements are defined by the number of
+protons they possess.\n\n
+• Mass of an atom is practically due to
+protons and neutrons alone. These are
+present in the nucleus of an atom.
+Hence protons and neutrons are also
+called nucleons. Therefore, the mass of
+an atom resides in its nucleus.\n\n
+• Isotopes are atoms of the same
+element, which have different mass
+numbers.\n\n
+• Isobars are atoms having the same mass
+number but different atomic numbers.\n\n
+• To bind a nucleus together there must
+        be a strong attractive force of a totally
+different kind. It must be strong enough
+to overcome the repulsion between the
+(positively charged) protons and to
+bind both protons and neutrons into
+the tiny nuclear volume. This force is
+called Nuclear Force.\n\n
+• The nuclearforce is much strongerthan
+the Coulomb force acting between
+charges or the gravitational forces
+between masses. The nuclear force
+between neutron-neutron, protonneutron and proton-proton is
+approximately the same. The nuclear
+force does not depend on the electric
+charge.\n\n
+• Radioactivity occurs when an atomic
+nucleus breaks down into smaller
+particles. There are three types of
+nuclear radiation: alpha, beta, and
+gamma. Alpha particles are positively
+charged, beta particles are negatively
+charged, and gamma particles have no
+charge. The radiations also have
+increasing levels of energy, first Alpha,
+then Beta, and finally Gamma, which
+is the most energetic of all these. Alpha
+and Beta are particles, but Gamma is a
+wave.\n\n
+• When a radioactive nucleus changes,
+the remaining nucleus (and atom) is not
+the same as it was. It changes its
+identity. The term half-life describes
+the time it takes for half of the atoms
+in a sample to change, and half to
+remain the same.\n\n
+• There is even a radioactive isotope of
+carbon, carbon-14. Normal carbon is
+carbon-12. C-14 has two extra neutrons
+and a half-life of 5730 years. Scientists
+use C-14 in a process called carbon
+dating. This process is not when two
+        carbon atoms go out to the mall one
+night. Carbon dating is when scientists
+try to measure the age of very old
+substances. There are very small
+amounts of C-14 in the atmosphere.
+Every living thing has some C-14 in it.
+Scientists measure the amount of C-14
+in the things they dig up to estimate
+how old they are. They rely on the
+half-life of 5730 years to date the object.\n\n
+• Fission is the splitting of an atom. Not
+all atoms will go through fission; as a
+matter of fact, very few do under
+normal circumstances.\n\n
+• In a nuclear reaction, scientists shoot a
+whole bunch of neutrons at uranium235 atoms. When one neutron hits the
+nucleus, the uranium becomes U-236.
+When it becomes 236, the uranium
+atom wants to split apart. Afterit splits,
+it gives off three neutrons and a lot of
+energy. Those neutrons hit three other
+U atoms in the area and cause them to
+become U-236. Each cycle, the reaction
+gets three times bigger. A reaction that,
+once started, continues by itself, is
+called a chain reaction.\n\n
+• Fusion is the process of two small
+atomic nuclei coming together to make
+a larger nucleus which is stable. The
+simplest nuclei to use are deuterium
+and tritium (isotopes of hydrogen).
+    </string>
+</resources>
